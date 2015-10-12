@@ -81,7 +81,7 @@ if(isset($_POST['email'])) {
  
 <!-- include your own success html here -->
  
- 
+ <h2>Message sent </h2>
  
 Thank you for contacting me. Will be in touch with you very soon.
  
